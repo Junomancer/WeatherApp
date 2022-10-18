@@ -1,0 +1,10 @@
+C:\Users\gazme\source\repos\FPT_Weather\FPT_Weather\bin\Debug\FPT_Weather.exe.config
+C:\Users\gazme\source\repos\FPT_Weather\FPT_Weather\bin\Debug\FPT_Weather.exe
+C:\Users\gazme\source\repos\FPT_Weather\FPT_Weather\bin\Debug\FPT_Weather.pdb
+C:\Users\gazme\source\repos\FPT_Weather\FPT_Weather\bin\Debug\Newtonsoft.Json.dll
+C:\Users\gazme\source\repos\FPT_Weather\FPT_Weather\bin\Debug\Newtonsoft.Json.xml
+C:\Users\gazme\source\repos\FPT_Weather\FPT_Weather\obj\Debug\FPT_Weather.csproj.AssemblyReference.cache
+C:\Users\gazme\source\repos\FPT_Weather\FPT_Weather\obj\Debug\FPT_Weather.csproj.CoreCompileInputs.cache
+C:\Users\gazme\source\repos\FPT_Weather\FPT_Weather\obj\Debug\FPT_Weather.csproj.CopyComplete
+C:\Users\gazme\source\repos\FPT_Weather\FPT_Weather\obj\Debug\FPT_Weather.exe
+C:\Users\gazme\source\repos\FPT_Weather\FPT_Weather\obj\Debug\FPT_Weather.pdb
